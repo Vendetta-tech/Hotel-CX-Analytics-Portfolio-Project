@@ -1,0 +1,31 @@
+Guest_ID,Booking_ID,Stay_Date,Booking_Channel,Guest_Type,Room_Type,Length_of_Stay,Check_In_Rating,Room_Rating,Cleanliness_Rating,Staff_Service_Rating,Food_Beverage_Rating,Overall_Satisfaction,Complaint_Flag,Complaint_Category,Resolution_Status,Recommendation_Flag,Repeat_Guest_Flag
+G001,B001,2026-01-05,Direct,Leisure,Deluxe,3,5,5,5,5,4,5,0,None,Not Applicable,1,1
+G002,B002,2026-01-06,OTA,Business,Standard,2,4,3,4,3,3,3,1,Room Quality,Resolved,0,0
+G003,B003,2026-01-08,Corporate,Business,Executive,4,5,4,5,4,4,4,0,None,Not Applicable,1,1
+G004,B004,2026-01-10,OTA,Leisure,Standard,2,3,2,3,3,2,2,1,Cleanliness,Unresolved,0,0
+G005,B005,2026-01-12,Direct,Leisure,Suite,5,5,5,5,5,5,5,0,None,Not Applicable,1,1
+G006,B006,2026-01-14,OTA,Solo,Standard,1,3,3,4,3,3,3,1,Check-in Delay,Resolved,0,0
+G007,B007,2026-01-17,Corporate,Business,Executive,3,4,4,4,5,3,4,0,None,Not Applicable,1,1
+G008,B008,2026-01-20,Direct,Family,Deluxe,4,5,4,4,5,4,5,0,None,Not Applicable,1,0
+G009,B009,2026-01-23,OTA,Leisure,Standard,3,2,2,3,2,2,2,1,Staff Service,Unresolved,0,0
+G010,B010,2026-01-25,Direct,Business,Executive,2,4,5,5,4,3,4,0,None,Not Applicable,1,1
+G011,B011,2026-02-02,OTA,Leisure,Deluxe,3,4,3,4,3,4,3,1,Room Quality,Resolved,0,0
+G012,B012,2026-02-04,Direct,Family,Suite,6,5,5,5,4,4,5,0,None,Not Applicable,1,1
+G013,B013,2026-02-06,Corporate,Business,Standard,2,3,4,4,3,3,3,1,Check-in Delay,Resolved,0,0
+G014,B014,2026-02-09,OTA,Solo,Standard,2,2,3,2,3,2,2,1,Cleanliness,Unresolved,0,0
+G015,B015,2026-02-12,Direct,Leisure,Deluxe,4,5,4,5,5,4,5,0,None,Not Applicable,1,1
+G016,B016,2026-02-16,Corporate,Business,Executive,3,4,4,5,4,3,4,0,None,Not Applicable,1,1
+G017,B017,2026-02-20,OTA,Leisure,Standard,2,3,2,3,2,3,2,1,Staff Service,Unresolved,0,0
+G018,B018,2026-02-24,Direct,Family,Deluxe,5,5,5,4,5,4,5,0,None,Not Applicable,1,0
+G019,B019,2026-03-03,OTA,Business,Standard,2,3,3,4,3,2,3,1,Food & Beverage,Resolved,0,0
+G020,B020,2026-03-06,Direct,Leisure,Suite,4,5,5,5,5,5,5,0,None,Not Applicable,1,1
+G021,B021,2026-03-10,Corporate,Business,Executive,3,4,4,4,4,4,4,0,None,Not Applicable,1,1
+G022,B022,2026-03-14,OTA,Leisure,Standard,2,2,2,3,3,2,2,1,Room Quality,Unresolved,0,0
+G023,B023,2026-03-18,Direct,Family,Deluxe,4,5,4,5,4,4,4,0,None,Not Applicable,1,1
+G024,B024,2026-03-22,OTA,Solo,Standard,1,3,3,3,2,2,2,1,Staff Service,Resolved,0,0
+G025,B025,2026-03-27,Direct,Business,Executive,2,5,4,5,5,3,4,0,None,Not Applicable,1,1
+G026,B026,2026-04-02,OTA,Leisure,Standard,3,3,2,3,3,2,2,1,Cleanliness,Unresolved,0,0
+G027,B027,2026-04-08,Corporate,Business,Executive,4,4,5,4,4,4,4,0,None,Not Applicable,1,1
+G028,B028,2026-04-14,Direct,Family,Suite,5,5,5,5,5,4,5,0,None,Not Applicable,1,1
+G029,B029,2026-04-19,OTA,Leisure,Deluxe,3,4,3,4,3,3,3,1,Room Quality,Resolved,0,0
+G030,B030,2026-04-25,Direct,Leisure,Deluxe,4,5,4,5,5,4,5,0,None,Not Applicable,1,1
