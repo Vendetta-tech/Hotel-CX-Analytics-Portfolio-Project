@@ -1,23 +1,35 @@
-# Hotel CX Dashboard Specification
+# Hotel CX Dashboard
 
-## Executive View
+## KPI Snapshot
 
-### KPI Cards
+| KPI | Result |
+|---|---:|
+| Total Guest Stays | 286 |
+| Average Satisfaction | 3.64 / 5 |
+| Complaint Rate | 45.8% |
+| Resolution Rate | 74.8% |
+| Avg Resolution Time | 6.5 hrs |
+| Returning Guest Rate | 36.4% |
 
-- Total Stays
-- Average Satisfaction
-- Complaint Rate
-- Recommendation Rate
-- Repeat Guest Rate
+## Primary Insight
 
-### Visuals
+**Room Cleanliness was the most frequent complaint category with 29 recorded cases.**
 
-1. Satisfaction trend over time
-2. Satisfaction by guest type
-3. Complaint categories ranked by volume
-4. Service touchpoint ratings
-5. Resolved versus unresolved complaints
-6. Booking channel comparison
+## Recommended Visuals
+
+1. KPI summary cards
+2. Satisfaction trend by month
+3. Complaint category ranking
+4. Satisfaction by guest segment
+5. Service touchpoint ratings
+6. Resolved versus unresolved complaints
+7. Returning versus first-time guest comparison
+
+## Management Question
+
+The dashboard is designed to answer:
+
+> Where is guest experience weakest, what is causing the friction, and which operational action should management prioritize?
 
 ## Filters
 
@@ -25,8 +37,4 @@
 - Guest type
 - Booking channel
 - Room type
-- Repeat guest status
-
-## Design Principle
-
-A manager should understand overall CX health, identify the largest pain point, and locate the affected segment without navigating through unnecessary pages.
+- Returning guest status
