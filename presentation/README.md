@@ -4,4 +4,4 @@ This folder contains the Hotel Customer Experience Analytics portfolio presentat
 
 Upload file here:
 
-`Hotel_Customer_Experience_Analytics_Presentation_v2.pptx`
+`Hotel_Customer_Experience_Analytics_Presentation_.pptx`
