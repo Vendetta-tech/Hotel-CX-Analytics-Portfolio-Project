@@ -1,6 +1,6 @@
 # Data
 
-This project uses a **286-record simulated hotel guest-stay dataset covering March to July 2026**.
+This project uses the primary dataset **`raw/hotel_cx_dataset_286_stays.csv`**, containing **286 simulated hotel guest stays covering March to July 2026**.
 
 The dataset is intentionally disclosed as simulated and is used to demonstrate an end-to-end customer experience analytics workflow.
 
