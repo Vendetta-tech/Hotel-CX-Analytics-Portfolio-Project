@@ -1,12 +1,24 @@
 # Hotel CX Analytics Portfolio Project
 
-A portfolio project demonstrating an end-to-end customer experience analytics workflow for a fictional hotel business.
+A portfolio project demonstrating an end-to-end customer experience analytics workflow for a fictional hotel business using a **286-record simulated guest-stay dataset covering March to July 2026**.
 
 ## 🌐 Live Portfolio Website
 
 **[View the live Hotel CX Analytics Portfolio Website →](https://vendetta-tech.github.io/Hotel-CX-Analytics-Portfolio-Project/)**
 
 The responsive website is designed for both desktop and mobile and provides a visual overview of the project, KPIs, insights, recommendations, dataset, SQL report, and case study.
+
+## Key Findings
+
+- **286 simulated guest stays** were analyzed across March to July 2026.
+- Average overall satisfaction was **3.64 / 5**.
+- **45.8%** of stays had a recorded complaint.
+- **74.8%** of recorded complaints were resolved.
+- Average complaint resolution time was **6.5 hours**.
+- **36.4%** of guests were returning customers.
+- **Room Cleanliness** was the most frequent complaint category with **29 recorded cases**.
+
+> Dataset disclosure: This project uses simulated data created for analytical practice. It is not presented as work performed for a real hotel.
 
 ## Objective
 
