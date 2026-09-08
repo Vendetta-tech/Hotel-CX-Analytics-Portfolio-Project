@@ -1,0 +1,287 @@
+Stay_ID,Check_In_Date,Customer_Type,Room_Type,Booking_Channel,Stay_Duration,Check_In_Rating,Room_Rating,Cleanliness_Rating,Staff_Service_Rating,Food_Beverage_Rating,Complaint_Category,Complaint_Resolved,Resolution_Time_Hours,Overall_Satisfaction,NPS_Category,Satisfaction_Category,Complaint_Flag,Returning_Customer_Flag,Low_Satisfaction_Flag,Month
+STY-1106,2026-03-01,Returning,Standard,OTA,2,5,2,5,4,5,Room Maintenance,Yes,5.3,4,Passive,Satisfied,Yes,1,0,Mar 2026
+STY-1168,2026-03-02,New,Standard,OTA,1,4,4,4,4,1,Food Quality,No,13.5,2,Detractor,Dissatisfied,Yes,0,1,Mar 2026
+STY-1018,2026-03-02,Returning,Deluxe,Travel Agent,4,4,4,3,3,4,Room Cleanliness,No,8.1,2,Detractor,Dissatisfied,Yes,1,1,Mar 2026
+STY-1056,2026-03-02,New,Standard,Travel Agent,2,3,4,4,3,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Mar 2026
+STY-1214,2026-03-02,Returning,Standard,OTA,2,3,3,3,5,4,Slow Complaint Resolution,Yes,5.2,3,Detractor,Neutral,Yes,1,0,Mar 2026
+STY-1191,2026-03-03,New,Standard,OTA,2,4,4,5,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1147,2026-03-03,Returning,Suite,OTA,3,4,3,5,4,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,Mar 2026
+STY-1272,2026-03-04,New,Standard,Direct Website,3,4,4,3,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1060,2026-03-04,New,Standard,Direct Website,4,4,3,5,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1107,2026-03-05,Returning,Deluxe,OTA,3,4,4,5,5,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Mar 2026
+STY-1090,2026-03-05,New,Standard,OTA,3,4,4,3,5,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1278,2026-03-06,New,Standard,Walk-in,3,5,5,5,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1208,2026-03-07,New,Standard,OTA,4,4,5,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1050,2026-03-08,Returning,Standard,OTA,4,4,5,5,5,3,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Mar 2026
+STY-1261,2026-03-08,New,Deluxe,Direct Website,6,5,2,3,5,5,Room Maintenance,Yes,3.4,3,Detractor,Neutral,Yes,0,0,Mar 2026
+STY-1219,2026-03-09,New,Deluxe,OTA,3,4,4,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1080,2026-03-09,Returning,Standard,OTA,4,5,4,4,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Mar 2026
+STY-1043,2026-03-09,New,Standard,OTA,1,3,4,5,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1204,2026-03-11,Returning,Standard,OTA,6,3,3,3,5,5,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Mar 2026
+STY-1159,2026-03-12,New,Deluxe,Walk-in,3,5,5,3,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1095,2026-03-12,New,Standard,OTA,5,3,4,5,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1125,2026-03-13,Returning,Deluxe,Direct Website,2,4,3,3,5,5,Room Maintenance,Yes,2.3,4,Passive,Satisfied,Yes,1,0,Mar 2026
+STY-1042,2026-03-14,Returning,Deluxe,OTA,2,5,3,4,4,4,Slow Complaint Resolution,No,21.2,3,Passive,Neutral,Yes,1,0,Mar 2026
+STY-1064,2026-03-14,New,Deluxe,Direct Website,7,3,5,4,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1075,2026-03-15,Returning,Standard,Direct Website,4,5,4,2,4,4,Room Cleanliness,No,7.4,3,Detractor,Neutral,Yes,1,0,Mar 2026
+STY-1112,2026-03-15,Returning,Standard,OTA,5,5,4,4,2,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Mar 2026
+STY-1028,2026-03-15,Returning,Suite,Direct Website,4,4,5,4,5,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Mar 2026
+STY-1067,2026-03-15,New,Standard,OTA,5,4,5,5,5,4,Check-in Delay,Yes,6.6,4,Promoter,Satisfied,Yes,0,0,Mar 2026
+STY-1003,2026-03-15,New,Standard,Direct Website,5,5,5,3,3,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1275,2026-03-17,Returning,Standard,Direct Website,3,4,5,3,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Mar 2026
+STY-1038,2026-03-18,New,Suite,Travel Agent,3,4,5,5,4,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1006,2026-03-21,New,Standard,Travel Agent,4,4,5,4,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1246,2026-03-21,Returning,Deluxe,OTA,4,4,4,5,3,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Mar 2026
+STY-1022,2026-03-21,New,Deluxe,OTA,2,4,4,3,4,2,Check-in Delay,No,16.3,2,Detractor,Dissatisfied,Yes,0,1,Mar 2026
+STY-1264,2026-03-21,New,Suite,Travel Agent,2,4,5,3,4,4,Room Cleanliness,No,16.2,3,Detractor,Neutral,Yes,0,0,Mar 2026
+STY-1036,2026-03-21,New,Standard,OTA,4,3,2,5,5,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1024,2026-03-22,New,Standard,OTA,2,5,3,3,4,5,Room Maintenance,Yes,3.7,3,Passive,Neutral,Yes,0,0,Mar 2026
+STY-1257,2026-03-22,New,Suite,OTA,3,4,3,4,3,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Mar 2026
+STY-1282,2026-03-24,Returning,Standard,Direct Website,1,4,3,3,4,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,Mar 2026
+STY-1181,2026-03-24,Returning,Standard,Direct Website,4,4,4,4,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Mar 2026
+STY-1072,2026-03-24,New,Standard,Travel Agent,2,4,5,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1144,2026-03-27,New,Deluxe,Travel Agent,5,4,4,3,4,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1110,2026-03-27,Returning,Standard,Direct Website,3,4,4,3,5,3,Room Cleanliness,Yes,9.7,3,Detractor,Neutral,Yes,1,0,Mar 2026
+STY-1263,2026-03-27,Returning,Standard,Walk-in,4,5,3,2,2,4,Room Maintenance,Yes,9.0,3,Passive,Neutral,Yes,1,0,Mar 2026
+STY-1262,2026-03-27,New,Deluxe,OTA,2,4,2,4,5,5,Room Maintenance,No,14.8,2,Detractor,Dissatisfied,Yes,0,1,Mar 2026
+STY-1134,2026-03-28,New,Deluxe,Travel Agent,5,4,5,5,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Mar 2026
+STY-1128,2026-03-28,New,Standard,Direct Website,5,4,4,5,3,3,Staff Behaviour,Yes,5.4,3,Passive,Neutral,Yes,0,0,Mar 2026
+STY-1092,2026-03-28,Returning,Standard,Travel Agent,2,4,2,5,5,4,Room Maintenance,Yes,1.9,4,Passive,Satisfied,Yes,1,0,Mar 2026
+STY-1267,2026-03-28,New,Deluxe,Walk-in,2,4,3,4,3,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Mar 2026
+STY-1133,2026-03-28,Returning,Standard,OTA,1,5,3,3,3,5,Staff Behaviour,Yes,3.1,2,Detractor,Dissatisfied,Yes,1,1,Mar 2026
+STY-1123,2026-03-29,New,Standard,OTA,6,3,3,5,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Mar 2026
+STY-1265,2026-03-30,Returning,Deluxe,OTA,1,5,5,4,5,5,Slow Complaint Resolution,Yes,4.4,4,Promoter,Satisfied,Yes,1,0,Mar 2026
+STY-1138,2026-03-30,Returning,Deluxe,OTA,1,5,3,5,4,4,Slow Complaint Resolution,Yes,2.4,4,Passive,Satisfied,Yes,1,0,Mar 2026
+STY-1088,2026-04-02,New,Standard,Direct Website,2,4,4,3,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1244,2026-04-02,New,Deluxe,Direct Website,5,3,4,3,5,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1254,2026-04-02,New,Standard,Travel Agent,2,3,4,4,4,3,Food Quality,Yes,3.7,3,Passive,Neutral,Yes,0,0,Apr 2026
+STY-1096,2026-04-02,Returning,Standard,Travel Agent,3,4,4,5,3,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1051,2026-04-04,New,Deluxe,Direct Website,3,5,4,3,3,4,Room Cleanliness,Yes,4.4,4,Promoter,Satisfied,Yes,0,0,Apr 2026
+STY-1103,2026-04-04,New,Standard,OTA,2,4,4,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1273,2026-04-04,Returning,Deluxe,Travel Agent,4,4,1,5,4,4,Room Maintenance,Yes,3.0,3,Detractor,Neutral,Yes,1,0,Apr 2026
+STY-1124,2026-04-05,New,Deluxe,OTA,3,3,2,5,3,5,Room Maintenance,Yes,2.7,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1100,2026-04-06,New,Standard,Direct Website,1,5,5,5,3,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1218,2026-04-06,New,Standard,OTA,4,2,5,4,2,4,Staff Behaviour,Yes,1.1,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1281,2026-04-06,New,Standard,OTA,6,4,2,5,5,5,Room Maintenance,No,6.1,3,Passive,Neutral,Yes,0,0,Apr 2026
+STY-1258,2026-04-07,New,Standard,Direct Website,4,5,5,5,4,5,Slow Complaint Resolution,No,6.2,4,Passive,Satisfied,Yes,0,0,Apr 2026
+STY-1180,2026-04-07,New,Deluxe,OTA,4,4,4,5,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1020,2026-04-07,Returning,Standard,Direct Website,2,3,4,3,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1160,2026-04-08,Returning,Standard,Direct Website,3,4,3,5,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1200,2026-04-08,New,Suite,Direct Website,3,5,4,3,3,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1068,2026-04-09,Returning,Standard,OTA,3,5,4,5,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1074,2026-04-10,New,Standard,Walk-in,2,1,4,4,5,4,Check-in Delay,No,4.0,2,Detractor,Dissatisfied,Yes,0,1,Apr 2026
+STY-1091,2026-04-10,New,Deluxe,Direct Website,3,3,4,5,2,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1206,2026-04-11,New,Deluxe,OTA,3,5,4,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1114,2026-04-11,New,Standard,Travel Agent,2,5,5,4,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1136,2026-04-13,New,Deluxe,Travel Agent,3,4,3,1,5,4,Room Cleanliness,Yes,8.4,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1063,2026-04-13,Returning,Suite,OTA,5,4,2,4,3,4,Room Maintenance,No,16.1,2,Detractor,Dissatisfied,Yes,1,1,Apr 2026
+STY-1076,2026-04-14,Returning,Standard,OTA,6,4,3,4,5,5,Room Maintenance,No,3.0,3,Passive,Neutral,Yes,1,0,Apr 2026
+STY-1130,2026-04-14,New,Standard,Direct Website,2,5,4,5,3,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1276,2026-04-15,New,Standard,OTA,1,4,4,4,4,4,Room Cleanliness,Yes,1.1,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1284,2026-04-15,Returning,Standard,OTA,3,3,4,2,5,3,Room Cleanliness,Yes,4.3,3,Detractor,Neutral,Yes,1,0,Apr 2026
+STY-1216,2026-04-17,New,Standard,OTA,5,4,4,3,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1270,2026-04-17,New,Standard,OTA,3,4,4,4,5,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1097,2026-04-17,New,Deluxe,Direct Website,2,4,4,3,5,4,Room Cleanliness,No,10.1,3,Passive,Neutral,Yes,0,0,Apr 2026
+STY-1066,2026-04-17,New,Deluxe,Travel Agent,2,4,3,3,3,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Apr 2026
+STY-1247,2026-04-17,New,Deluxe,Direct Website,1,5,2,5,5,4,Room Maintenance,No,9.1,2,Detractor,Dissatisfied,Yes,0,1,Apr 2026
+STY-1222,2026-04-17,Returning,Deluxe,OTA,2,4,5,5,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Apr 2026
+STY-1026,2026-04-18,New,Deluxe,Travel Agent,3,3,3,4,5,3,Check-in Delay,No,6.5,2,Detractor,Dissatisfied,Yes,0,1,Apr 2026
+STY-1274,2026-04-18,New,Suite,Direct Website,4,4,4,5,4,4,Check-in Delay,Yes,3.3,4,Promoter,Satisfied,Yes,0,0,Apr 2026
+STY-1053,2026-04-19,New,Standard,OTA,5,4,3,3,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1034,2026-04-20,New,Standard,OTA,2,4,4,5,2,5,Slow Complaint Resolution,Yes,6.7,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1151,2026-04-20,Returning,Deluxe,Walk-in,2,5,4,4,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Apr 2026
+STY-1029,2026-04-20,New,Deluxe,Direct Website,1,5,4,3,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1260,2026-04-20,Returning,Standard,Travel Agent,4,4,5,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1158,2026-04-21,New,Standard,Travel Agent,3,4,5,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1118,2026-04-21,Returning,Deluxe,OTA,3,5,4,5,5,5,Billing Issue,Yes,3.2,4,Passive,Satisfied,Yes,1,0,Apr 2026
+STY-1198,2026-04-21,Returning,Standard,OTA,4,4,4,4,4,1,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1176,2026-04-22,Returning,Standard,Travel Agent,2,4,3,4,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1045,2026-04-22,New,Deluxe,OTA,2,5,5,4,3,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1017,2026-04-22,New,Standard,Direct Website,4,5,4,1,5,3,Room Cleanliness,Yes,5.3,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1071,2026-04-22,New,Standard,OTA,3,5,5,5,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1061,2026-04-23,New,Deluxe,Direct Website,1,4,2,5,4,5,Room Maintenance,Yes,3.1,4,Promoter,Satisfied,Yes,0,0,Apr 2026
+STY-1242,2026-04-23,New,Standard,OTA,2,4,5,5,4,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Apr 2026
+STY-1170,2026-04-23,New,Standard,Direct Website,4,4,4,2,5,4,Room Cleanliness,Yes,6.5,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1226,2026-04-23,New,Suite,Travel Agent,1,4,3,5,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Apr 2026
+STY-1058,2026-04-23,Returning,Standard,OTA,3,5,4,4,5,4,Billing Issue,Yes,1.4,4,Passive,Satisfied,Yes,1,0,Apr 2026
+STY-1031,2026-04-24,New,Deluxe,OTA,2,5,4,3,3,4,Room Cleanliness,Yes,7.9,4,Passive,Satisfied,Yes,0,0,Apr 2026
+STY-1023,2026-04-27,New,Standard,Walk-in,2,2,4,5,5,5,Check-in Delay,No,8.3,2,Detractor,Dissatisfied,Yes,0,1,Apr 2026
+STY-1027,2026-04-28,New,Deluxe,OTA,3,4,3,4,4,4,Slow Complaint Resolution,Yes,4.9,4,Passive,Satisfied,Yes,0,0,Apr 2026
+STY-1153,2026-04-28,New,Standard,OTA,4,4,5,2,4,3,Room Cleanliness,Yes,2.1,3,Detractor,Neutral,Yes,0,0,Apr 2026
+STY-1212,2026-04-29,Returning,Standard,OTA,2,4,5,4,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1041,2026-04-29,Returning,Deluxe,OTA,5,4,4,3,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Apr 2026
+STY-1269,2026-04-30,Returning,Standard,Direct Website,2,5,3,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Apr 2026
+STY-1131,2026-05-01,New,Standard,OTA,2,4,5,3,5,2,Food Quality,Yes,1.5,3,Detractor,Neutral,Yes,0,0,May 2026
+STY-1157,2026-05-01,New,Deluxe,Travel Agent,3,1,4,4,5,5,Check-in Delay,Yes,2.7,4,Promoter,Satisfied,Yes,0,0,May 2026
+STY-1099,2026-05-01,Returning,Deluxe,Travel Agent,3,4,5,4,4,3,Check-in Delay,Yes,11.5,3,Detractor,Neutral,Yes,1,0,May 2026
+STY-1150,2026-05-01,Returning,Deluxe,OTA,3,4,4,3,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,May 2026
+STY-1116,2026-05-02,Returning,Standard,OTA,2,4,4,4,3,5,Check-in Delay,Yes,9.4,3,Passive,Neutral,Yes,1,0,May 2026
+STY-1084,2026-05-02,New,Deluxe,OTA,2,5,5,3,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,May 2026
+STY-1032,2026-05-03,New,Deluxe,OTA,4,4,4,5,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,May 2026
+STY-1077,2026-05-04,New,Standard,Direct Website,3,4,2,3,5,4,Room Maintenance,Yes,24.9,2,Detractor,Dissatisfied,Yes,0,1,May 2026
+STY-1129,2026-05-05,Returning,Suite,OTA,4,3,3,4,4,5,Room Maintenance,Yes,11.3,3,Passive,Neutral,Yes,1,0,May 2026
+STY-1177,2026-05-07,Returning,Standard,Walk-in,3,5,3,3,4,3,Room Cleanliness,No,10.3,3,Detractor,Neutral,Yes,1,0,May 2026
+STY-1243,2026-05-07,New,Standard,Direct Website,4,4,5,4,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,May 2026
+STY-1182,2026-05-08,Returning,Deluxe,Walk-in,3,4,4,4,4,5,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,May 2026
+STY-1189,2026-05-09,New,Suite,Travel Agent,3,4,4,3,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,May 2026
+STY-1079,2026-05-10,New,Deluxe,OTA,4,5,4,3,4,3,Billing Issue,Yes,0.6,4,Passive,Satisfied,Yes,0,0,May 2026
+STY-1126,2026-05-10,New,Standard,Direct Website,2,3,5,5,5,3,Food Quality,Yes,0.5,4,Passive,Satisfied,Yes,0,0,May 2026
+STY-1005,2026-05-11,New,Standard,Travel Agent,2,5,4,5,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,May 2026
+STY-1094,2026-05-11,New,Standard,Travel Agent,3,5,3,4,3,4,Staff Behaviour,No,12.2,2,Detractor,Dissatisfied,Yes,0,1,May 2026
+STY-1037,2026-05-12,Returning,Standard,OTA,4,4,3,4,5,2,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,May 2026
+STY-1009,2026-05-14,Returning,Deluxe,Travel Agent,3,5,5,4,3,3,Staff Behaviour,Yes,10.4,3,Passive,Neutral,Yes,1,0,May 2026
+STY-1230,2026-05-14,Returning,Standard,Direct Website,2,3,5,4,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,May 2026
+STY-1139,2026-05-14,New,Standard,Walk-in,4,2,3,2,3,4,Check-in Delay,Yes,4.9,2,Detractor,Dissatisfied,Yes,0,1,May 2026
+STY-1166,2026-05-20,New,Standard,OTA,4,5,5,5,4,3,Food Quality,Yes,3.1,3,Detractor,Neutral,Yes,0,0,May 2026
+STY-1086,2026-05-20,New,Deluxe,Travel Agent,1,2,3,3,4,3,Check-in Delay,No,4.5,2,Detractor,Dissatisfied,Yes,0,1,May 2026
+STY-1052,2026-05-20,Returning,Standard,Travel Agent,6,2,5,5,5,4,Check-in Delay,Yes,2.2,4,Promoter,Satisfied,Yes,1,0,May 2026
+STY-1241,2026-05-21,New,Standard,Direct Website,3,4,4,5,2,4,Staff Behaviour,Yes,3.4,3,Passive,Neutral,Yes,0,0,May 2026
+STY-1069,2026-05-21,New,Standard,Travel Agent,3,2,5,4,5,5,Check-in Delay,Yes,6.1,3,Passive,Neutral,Yes,0,0,May 2026
+STY-1201,2026-05-21,Returning,Standard,OTA,4,4,4,5,4,2,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,May 2026
+STY-1137,2026-05-23,New,Standard,OTA,4,4,2,4,4,4,Room Maintenance,Yes,3.6,3,Passive,Neutral,Yes,0,0,May 2026
+STY-1047,2026-05-23,New,Standard,Direct Website,2,3,5,5,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,May 2026
+STY-1233,2026-05-23,New,Standard,Walk-in,2,3,4,3,3,4,Room Cleanliness,Yes,0.7,3,Passive,Neutral,Yes,0,0,May 2026
+STY-1127,2026-05-25,Returning,Standard,Direct Website,4,5,4,1,4,5,Room Cleanliness,Yes,7.7,4,Passive,Satisfied,Yes,1,0,May 2026
+STY-1171,2026-05-26,New,Standard,Direct Website,1,4,4,4,3,5,Billing Issue,Yes,9.2,3,Passive,Neutral,Yes,0,0,May 2026
+STY-1081,2026-05-27,New,Standard,Travel Agent,4,3,4,3,3,2,Food Quality,Yes,4.2,3,Detractor,Neutral,Yes,0,0,May 2026
+STY-1010,2026-05-27,Returning,Deluxe,OTA,3,3,3,5,4,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,May 2026
+STY-1019,2026-05-27,New,Suite,Direct Website,3,4,4,4,4,4,Room Maintenance,No,19.5,3,Detractor,Neutral,Yes,0,0,May 2026
+STY-1040,2026-05-28,Returning,Standard,Direct Website,4,4,3,4,4,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,May 2026
+STY-1025,2026-05-28,Returning,Deluxe,OTA,4,4,4,3,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,May 2026
+STY-1078,2026-05-28,Returning,Standard,Direct Website,4,2,4,5,3,2,Check-in Delay,No,28.1,1,Detractor,Dissatisfied,Yes,1,1,May 2026
+STY-1044,2026-05-29,New,Deluxe,OTA,2,4,3,1,4,5,Room Cleanliness,Yes,4.2,3,Passive,Neutral,Yes,0,0,May 2026
+STY-1194,2026-05-29,New,Deluxe,Direct Website,1,5,4,4,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,May 2026
+STY-1210,2026-05-29,New,Deluxe,OTA,2,3,4,5,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,May 2026
+STY-1113,2026-05-29,New,Standard,Direct Website,7,4,5,2,5,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,May 2026
+STY-1141,2026-05-31,New,Deluxe,Direct Website,5,4,3,3,5,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,May 2026
+STY-1048,2026-05-31,Returning,Deluxe,Direct Website,3,5,3,5,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,May 2026
+STY-1190,2026-06-01,Returning,Deluxe,OTA,1,5,4,5,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1002,2026-06-01,New,Deluxe,OTA,3,5,4,4,4,5,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1283,2026-06-01,New,Deluxe,OTA,3,5,3,4,1,4,Staff Behaviour,No,17.1,1,Detractor,Dissatisfied,Yes,0,1,Jun 2026
+STY-1237,2026-06-01,New,Standard,Direct Website,5,5,5,4,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1065,2026-06-03,New,Standard,OTA,5,4,5,3,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1285,2026-06-03,Returning,Deluxe,OTA,4,2,4,4,3,5,Check-in Delay,Yes,3.6,3,Detractor,Neutral,Yes,1,0,Jun 2026
+STY-1197,2026-06-04,New,Standard,OTA,2,3,5,4,5,3,Slow Complaint Resolution,Yes,5.6,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1155,2026-06-04,New,Standard,OTA,4,4,3,3,4,5,Billing Issue,Yes,2.4,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1119,2026-06-04,Returning,Standard,Travel Agent,4,5,5,3,4,4,Room Cleanliness,Yes,3.2,4,Passive,Satisfied,Yes,1,0,Jun 2026
+STY-1117,2026-06-04,Returning,Deluxe,Travel Agent,7,5,4,4,4,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1187,2026-06-05,New,Standard,OTA,2,4,3,3,5,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1266,2026-06-05,New,Standard,Travel Agent,2,2,3,4,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1184,2026-06-06,Returning,Standard,OTA,1,4,4,3,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jun 2026
+STY-1220,2026-06-07,New,Deluxe,Travel Agent,5,3,5,5,4,3,Food Quality,Yes,7.2,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1207,2026-06-07,New,Deluxe,Direct Website,2,5,5,4,3,5,Billing Issue,Yes,9.6,4,Passive,Satisfied,Yes,0,0,Jun 2026
+STY-1235,2026-06-07,Returning,Standard,Direct Website,5,4,3,5,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1101,2026-06-07,New,Deluxe,OTA,1,5,3,3,5,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1279,2026-06-07,New,Deluxe,Travel Agent,6,4,5,2,5,4,Room Cleanliness,Yes,2.8,3,Passive,Neutral,Yes,0,0,Jun 2026
+STY-1286,2026-06-07,New,Standard,Direct Website,4,4,5,4,3,2,Slow Complaint Resolution,Yes,5.1,4,Promoter,Satisfied,Yes,0,0,Jun 2026
+STY-1012,2026-06-08,New,Standard,Travel Agent,5,5,3,2,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1164,2026-06-09,Returning,Standard,OTA,3,5,4,4,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1104,2026-06-09,New,Standard,Direct Website,4,3,4,1,4,2,Room Cleanliness,Yes,10.5,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1001,2026-06-11,Returning,Deluxe,Travel Agent,5,4,4,5,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1109,2026-06-11,Returning,Standard,OTA,2,4,5,3,5,4,Room Cleanliness,Yes,3.6,4,Promoter,Satisfied,Yes,1,0,Jun 2026
+STY-1007,2026-06-11,New,Standard,OTA,2,4,4,3,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1148,2026-06-11,New,Standard,OTA,2,4,5,5,3,3,Food Quality,Yes,3.1,4,Passive,Satisfied,Yes,0,0,Jun 2026
+STY-1232,2026-06-12,New,Deluxe,OTA,3,4,4,4,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1013,2026-06-12,Returning,Standard,Direct Website,2,5,4,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1202,2026-06-12,New,Deluxe,Direct Website,2,1,3,5,5,5,Check-in Delay,Yes,0.9,4,Passive,Satisfied,Yes,0,0,Jun 2026
+STY-1102,2026-06-12,Returning,Standard,Walk-in,4,5,4,5,4,5,Billing Issue,Yes,6.3,5,Promoter,Satisfied,Yes,1,0,Jun 2026
+STY-1054,2026-06-12,New,Standard,Travel Agent,1,5,4,3,4,5,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1059,2026-06-14,Returning,Deluxe,OTA,3,3,4,4,4,4,Check-in Delay,Yes,5.1,3,Detractor,Neutral,Yes,1,0,Jun 2026
+STY-1004,2026-06-15,New,Standard,OTA,2,3,4,2,5,4,Room Cleanliness,Yes,5.7,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1030,2026-06-16,New,Suite,Direct Website,6,3,4,4,5,3,Check-in Delay,No,5.2,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1135,2026-06-16,Returning,Standard,OTA,2,4,3,5,5,3,Slow Complaint Resolution,Yes,2.9,4,Promoter,Satisfied,Yes,1,0,Jun 2026
+STY-1259,2026-06-17,New,Standard,Walk-in,4,4,3,1,5,4,Room Cleanliness,Yes,2.1,2,Detractor,Dissatisfied,Yes,0,1,Jun 2026
+STY-1240,2026-06-18,Returning,Standard,OTA,2,5,3,3,5,4,Slow Complaint Resolution,Yes,2.8,4,Passive,Satisfied,Yes,1,0,Jun 2026
+STY-1070,2026-06-19,Returning,Standard,Walk-in,2,3,3,4,3,5,Staff Behaviour,No,16.2,2,Detractor,Dissatisfied,Yes,1,1,Jun 2026
+STY-1049,2026-06-19,New,Standard,Direct Website,3,3,5,3,3,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1268,2026-06-19,New,Deluxe,OTA,4,5,4,5,4,3,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1211,2026-06-20,Returning,Standard,OTA,1,4,4,4,4,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jun 2026
+STY-1234,2026-06-20,New,Deluxe,Direct Website,1,1,3,3,4,3,Check-in Delay,Yes,2.6,3,Passive,Neutral,Yes,0,0,Jun 2026
+STY-1231,2026-06-21,New,Standard,Direct Website,4,4,4,4,4,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Jun 2026
+STY-1165,2026-06-21,New,Suite,OTA,4,3,4,4,4,4,Billing Issue,Yes,2.2,3,Detractor,Neutral,Yes,0,0,Jun 2026
+STY-1167,2026-06-21,New,Deluxe,OTA,4,4,2,4,3,4,Room Maintenance,No,5.7,2,Detractor,Dissatisfied,Yes,0,1,Jun 2026
+STY-1156,2026-06-21,New,Suite,Direct Website,4,4,4,5,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1163,2026-06-21,Returning,Standard,OTA,4,4,4,4,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jun 2026
+STY-1213,2026-06-21,Returning,Standard,OTA,3,4,4,3,3,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1255,2026-06-23,New,Standard,Direct Website,4,4,4,4,2,3,Staff Behaviour,No,12.3,1,Detractor,Dissatisfied,Yes,0,1,Jun 2026
+STY-1183,2026-06-24,Returning,Deluxe,OTA,3,3,4,4,3,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jun 2026
+STY-1146,2026-06-24,New,Standard,Travel Agent,2,4,5,4,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1229,2026-06-24,New,Deluxe,Walk-in,3,3,4,3,4,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Jun 2026
+STY-1277,2026-06-25,New,Standard,Direct Website,5,5,4,2,5,4,Room Cleanliness,Yes,3.4,4,Promoter,Satisfied,Yes,0,0,Jun 2026
+STY-1011,2026-06-25,New,Standard,Direct Website,6,4,3,4,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jun 2026
+STY-1154,2026-06-26,New,Deluxe,Direct Website,2,4,3,3,5,4,Room Maintenance,Yes,2.3,4,Passive,Satisfied,Yes,0,0,Jun 2026
+STY-1256,2026-06-27,New,Deluxe,Direct Website,5,4,2,5,4,4,Room Maintenance,Yes,2.8,4,Promoter,Satisfied,Yes,0,0,Jun 2026
+STY-1227,2026-06-28,Returning,Deluxe,OTA,3,3,5,5,4,3,Check-in Delay,Yes,5.6,4,Promoter,Satisfied,Yes,1,0,Jun 2026
+STY-1143,2026-06-29,Returning,Deluxe,Direct Website,4,3,4,3,4,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,Jun 2026
+STY-1145,2026-06-29,New,Suite,OTA,2,4,5,5,4,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1008,2026-06-30,New,Standard,OTA,2,5,4,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jun 2026
+STY-1178,2026-07-01,New,Standard,Travel Agent,3,4,4,2,3,3,Check-in Delay,Yes,2.4,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1089,2026-07-01,Returning,Suite,Travel Agent,4,4,4,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1280,2026-07-02,New,Standard,Travel Agent,3,4,4,3,3,5,Staff Behaviour,Yes,1.6,4,Promoter,Satisfied,Yes,0,0,Jul 2026
+STY-1188,2026-07-02,New,Standard,Walk-in,7,4,4,4,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1073,2026-07-02,New,Deluxe,Walk-in,2,3,5,4,4,3,Food Quality,No,3.0,3,Detractor,Neutral,Yes,0,0,Jul 2026
+STY-1115,2026-07-02,Returning,Deluxe,OTA,5,5,3,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jul 2026
+STY-1174,2026-07-04,New,Standard,Direct Website,1,4,3,3,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1199,2026-07-06,New,Deluxe,Direct Website,2,4,5,4,3,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1253,2026-07-06,New,Standard,Direct Website,3,5,4,4,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1140,2026-07-06,New,Standard,Direct Website,1,5,4,4,5,2,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1249,2026-07-06,New,Deluxe,Direct Website,3,4,4,3,4,2,Food Quality,Yes,2.3,3,Detractor,Neutral,Yes,0,0,Jul 2026
+STY-1239,2026-07-06,Returning,Deluxe,OTA,1,4,2,4,5,4,Room Maintenance,Yes,2.8,3,Detractor,Neutral,Yes,1,0,Jul 2026
+STY-1203,2026-07-07,New,Deluxe,Direct Website,2,4,4,5,5,4,Slow Complaint Resolution,No,3.0,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1082,2026-07-07,New,Standard,Direct Website,3,4,5,5,5,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,0,0,Jul 2026
+STY-1172,2026-07-07,Returning,Standard,Walk-in,4,3,5,4,5,5,Billing Issue,Yes,2.2,4,Promoter,Satisfied,Yes,1,0,Jul 2026
+STY-1215,2026-07-07,Returning,Standard,Travel Agent,4,3,5,4,2,4,Staff Behaviour,Yes,1.2,3,Detractor,Neutral,Yes,1,0,Jul 2026
+STY-1142,2026-07-07,New,Suite,Travel Agent,2,3,4,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1175,2026-07-08,Returning,Standard,Direct Website,1,4,5,4,4,4,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,Jul 2026
+STY-1169,2026-07-08,New,Standard,Direct Website,2,5,4,3,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1046,2026-07-08,New,Standard,Travel Agent,5,4,5,4,4,2,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1021,2026-07-08,New,Deluxe,Direct Website,3,4,4,5,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1161,2026-07-08,Returning,Deluxe,OTA,3,5,5,4,5,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1223,2026-07-09,Returning,Standard,OTA,3,3,4,4,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jul 2026
+STY-1105,2026-07-09,Returning,Deluxe,OTA,3,4,2,5,4,3,Food Quality,Yes,7.4,3,Detractor,Neutral,Yes,1,0,Jul 2026
+STY-1015,2026-07-09,New,Standard,Direct Website,2,4,4,3,4,4,Room Cleanliness,Yes,5.5,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1033,2026-07-09,Returning,Standard,Travel Agent,1,5,4,4,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1162,2026-07-09,New,Deluxe,OTA,2,3,4,4,5,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1055,2026-07-10,Returning,Deluxe,Walk-in,2,4,5,3,5,4,Room Cleanliness,Yes,14.4,3,Passive,Neutral,Yes,1,0,Jul 2026
+STY-1039,2026-07-10,New,Standard,OTA,7,3,4,4,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1120,2026-07-10,New,Deluxe,OTA,3,4,4,4,4,3,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1057,2026-07-12,New,Deluxe,Travel Agent,4,5,5,5,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1132,2026-07-12,New,Standard,OTA,5,3,5,5,4,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1093,2026-07-13,Returning,Deluxe,OTA,4,5,3,4,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1251,2026-07-13,New,Suite,OTA,3,5,5,5,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1035,2026-07-13,New,Deluxe,OTA,2,5,4,4,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1083,2026-07-14,New,Standard,Travel Agent,1,5,4,4,5,2,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1250,2026-07-14,New,Deluxe,Travel Agent,2,4,5,2,4,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1087,2026-07-14,New,Suite,OTA,3,4,3,5,4,2,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1111,2026-07-15,Returning,Standard,OTA,4,4,3,2,4,4,Room Maintenance,Yes,0.5,3,Detractor,Neutral,Yes,1,0,Jul 2026
+STY-1149,2026-07-15,New,Deluxe,Walk-in,2,4,3,5,5,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1085,2026-07-17,New,Standard,OTA,4,4,4,3,5,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1185,2026-07-17,Returning,Suite,OTA,2,4,5,3,5,3,Room Cleanliness,Yes,2.4,4,Promoter,Satisfied,Yes,1,0,Jul 2026
+STY-1217,2026-07-18,New,Standard,OTA,1,4,4,3,4,2,Food Quality,Yes,5.3,3,Detractor,Neutral,Yes,0,0,Jul 2026
+STY-1245,2026-07-20,New,Standard,OTA,3,3,4,5,5,3,Slow Complaint Resolution,No,21.0,2,Detractor,Dissatisfied,Yes,0,1,Jul 2026
+STY-1108,2026-07-20,Returning,Deluxe,OTA,2,2,5,3,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jul 2026
+STY-1122,2026-07-21,New,Standard,OTA,2,3,3,2,4,4,Room Cleanliness,No,17.4,2,Detractor,Dissatisfied,Yes,0,1,Jul 2026
+STY-1209,2026-07-22,New,Standard,OTA,4,2,5,3,3,5,Check-in Delay,Yes,2.5,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1186,2026-07-22,Returning,Suite,OTA,6,4,4,4,4,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1179,2026-07-23,Returning,Deluxe,OTA,4,2,3,3,5,4,Room Maintenance,Yes,1.6,3,Detractor,Neutral,Yes,1,0,Jul 2026
+STY-1252,2026-07-23,New,Standard,OTA,3,4,3,3,4,3,Food Quality,Yes,6.3,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1062,2026-07-24,New,Standard,OTA,3,5,4,4,5,3,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1238,2026-07-24,Returning,Standard,Direct Website,1,2,4,4,3,4,Check-in Delay,Yes,3.3,3,Passive,Neutral,Yes,1,0,Jul 2026
+STY-1193,2026-07-25,New,Deluxe,OTA,1,5,3,2,4,3,Room Cleanliness,No,14.7,1,Detractor,Dissatisfied,Yes,0,1,Jul 2026
+STY-1195,2026-07-25,Returning,Deluxe,OTA,3,2,4,5,5,4,Check-in Delay,Yes,5.1,4,Promoter,Satisfied,Yes,1,0,Jul 2026
+STY-1173,2026-07-25,Returning,Deluxe,Direct Website,2,4,4,5,4,2,Food Quality,No,7.9,3,Detractor,Neutral,Yes,1,0,Jul 2026
+STY-1271,2026-07-25,Returning,Standard,Travel Agent,4,4,5,4,5,3,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jul 2026
+STY-1221,2026-07-25,New,Standard,OTA,3,5,5,5,5,4,Billing Issue,Yes,2.7,4,Passive,Satisfied,Yes,0,0,Jul 2026
+STY-1248,2026-07-26,New,Deluxe,OTA,3,2,3,4,4,4,Check-in Delay,Yes,5.6,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1192,2026-07-26,New,Deluxe,Direct Website,5,4,3,5,4,4,Room Maintenance,Yes,6.2,4,Passive,Satisfied,Yes,0,0,Jul 2026
+STY-1196,2026-07-26,Returning,Deluxe,Walk-in,2,5,4,4,4,5,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1224,2026-07-26,New,Deluxe,OTA,1,3,5,5,4,5,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,0,0,Jul 2026
+STY-1016,2026-07-28,New,Deluxe,Direct Website,3,4,5,3,4,4,Slow Complaint Resolution,Yes,4.3,3,Passive,Neutral,Yes,0,0,Jul 2026
+STY-1098,2026-07-29,Returning,Deluxe,Walk-in,2,4,3,4,4,4,No Complaint,Not Applicable,0.0,4,Passive,Satisfied,No,1,0,Jul 2026
+STY-1205,2026-07-29,New,Deluxe,Travel Agent,3,4,4,5,4,3,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1121,2026-07-29,New,Deluxe,Direct Website,4,4,3,5,4,4,Room Maintenance,Yes,2.1,4,Passive,Satisfied,Yes,0,0,Jul 2026
+STY-1014,2026-07-30,New,Standard,OTA,2,4,2,3,4,3,Room Maintenance,No,22.9,1,Detractor,Dissatisfied,Yes,0,1,Jul 2026
+STY-1228,2026-07-30,Returning,Deluxe,OTA,6,3,3,5,5,4,No Complaint,Not Applicable,0.0,4,Promoter,Satisfied,No,1,0,Jul 2026
+STY-1152,2026-07-30,New,Standard,Direct Website,2,5,3,4,5,4,Room Maintenance,Yes,12.0,4,Promoter,Satisfied,Yes,0,0,Jul 2026
+STY-1225,2026-07-30,New,Deluxe,OTA,4,4,5,5,4,4,No Complaint,Not Applicable,0.0,5,Promoter,Satisfied,No,0,0,Jul 2026
+STY-1236,2026-07-31,Returning,Standard,Direct Website,2,5,4,3,3,3,No Complaint,Not Applicable,0.0,3,Passive,Neutral,No,1,0,Jul 2026
