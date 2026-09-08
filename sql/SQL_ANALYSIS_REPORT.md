@@ -2,91 +2,71 @@
 
 ## Executive Summary
 
-This report summarizes the analysis of the simulated Hotel Customer Experience dataset.
+This report summarizes analysis of a **286-record simulated hotel guest-stay dataset covering March to July 2026**.
 
-### Dataset Scope
-
-- **Total stays:** 30
-- **Analysis period:** January 2026 to April 2026
-- **Guest segments:** Leisure, Business, Family, Solo
-- **Primary CX dimensions:** Check-in, Room, Cleanliness, Staff Service, Food & Beverage
-
-> The dataset is simulated for portfolio purposes.
+> **Portfolio disclosure:** The dataset is simulated for analytical practice and does not represent a real hotel's confidential or operational data.
 
 ## KPI Snapshot
 
 | KPI | Result |
 |---|---:|
-| Average Overall Satisfaction | 3.73 / 5 |
-| Complaint Rate | 36.7% |
-| Recommendation Rate | 63.3% |
-| Repeat Guest Rate | 56.7% |
-| Resolved Complaint Rate | 45.5% |
+| Total Guest Stays | 286 |
+| Average Overall Satisfaction | 3.64 / 5 |
+| Complaint Rate | 45.8% |
+| Complaint Resolution Rate | 74.8% |
+| Average Complaint Resolution Time | 6.5 hours |
+| Returning Guest Rate | 36.4% |
+| Most Frequent Complaint | Room Cleanliness, 29 cases |
 
 ## Key Findings
 
-### 1. Complaint recovery is the largest operational concern
+### 1. Service recovery is an important CX lever
 
-The simulated dataset contains **11 complaints**. Only **5 were resolved**, while **6 remained unresolved**.
+Nearly three quarters of recorded complaints were resolved, but unresolved complaints remain a material risk. The next operational step would be to identify complaint types and guest segments with slower or unsuccessful resolution.
 
-This means complaint handling should be treated as a priority alongside complaint prevention. A hotel can still protect guest relationships when problems occur if service recovery is fast and effective.
+### 2. Room cleanliness is the leading complaint theme
 
-### 2. Room and cleanliness issues require attention
+Room Cleanliness generated **29 recorded complaints**, making it the highest-frequency issue in the simulated dataset. This should be investigated through housekeeping quality checks, room inspection compliance, and issue escalation processes.
 
-The most recurring issue categories are:
+### 3. Overall satisfaction needs touchpoint-level diagnosis
 
-- Room Quality: 3 cases
-- Cleanliness: 3 cases
-- Staff Service: 3 cases
-- Check-in Delay: 2 cases
-- Food & Beverage: 1 case
+An overall satisfaction score of **3.64 / 5** provides a useful headline, but it does not identify the cause of dissatisfaction. The analysis therefore links satisfaction to service touchpoints, complaint categories, and resolution outcomes.
 
-Room quality, cleanliness, and staff service together account for the majority of complaint themes.
+### 4. Returning guests should be monitored separately
 
-### 3. Guest experience varies by segment
-
-The strongest satisfaction patterns are visible among Family and Business guests, while Solo and some OTA Leisure stays show more friction in the simulated dataset.
-
-The management lesson is not simply to improve the overall average. The next analytical step should be to investigate the weaker segment and identify the specific touchpoint causing dissatisfaction.
-
-### 4. Low service ratings align with lower overall satisfaction
-
-Records with complaints generally show weaker ratings in room quality, cleanliness, or staff service.
-
-This supports a touchpoint-level approach rather than relying only on the overall satisfaction score.
+**36.4%** of stays came from returning guests in the simulated data. Retention-sensitive customers should be analyzed separately because a poor experience from a repeat guest can represent a larger long-term relationship risk.
 
 ## Recommended Actions
 
-### Priority 1: Improve service recovery
+### Priority 1: Reduce room cleanliness complaints
+- Introduce pre-arrival room inspection checks.
+- Track recurring room or floor-level issues.
+- Audit housekeeping exceptions.
 
-**Action:** Create response-time and resolution targets for complaints.
+**Success metric:** Reduction in Room Cleanliness complaints.
 
-**Success metric:** Increase Resolution Rate and reduce unresolved cases.
+### Priority 2: Strengthen complaint recovery
+- Define response and resolution-time targets.
+- Escalate unresolved complaints.
+- Monitor recovery performance by complaint category.
 
-### Priority 2: Strengthen room and cleanliness controls
+**Success metrics:** Resolution Rate and Average Resolution Time.
 
-**Action:** Introduce pre-arrival room checks and exception tracking.
-
-**Success metric:** Reduce Room Quality and Cleanliness complaints.
-
-### Priority 3: Review staff service friction
-
-**Action:** Review low-rated stays and identify recurring service moments that require training or process redesign.
-
-**Success metric:** Improve Staff Service Rating and Overall Satisfaction.
+### Priority 3: Diagnose low satisfaction by touchpoint
+- Compare check-in, room, cleanliness, staff service, and food ratings.
+- Identify weak guest segments.
+- Prioritize the combination of high frequency and high impact.
 
 ## Analytical Logic
 
-The analysis follows this sequence:
+**Guest Segment → Satisfaction → Service Touchpoint → Complaint Category → Resolution Outcome → Action**
 
-**Guest Segment → Satisfaction → Service Touchpoint → Complaint Category → Resolution Status → Recommendation**
+## Technical Implementation
 
-## SQL Queries
+The SQL queries used for KPI, segmentation, complaint, touchpoint, and resolution analysis are available in:
 
-The underlying SQL queries used to calculate the analysis are available separately:
-
-[View SQL Code](hotel_cx_analysis.sql)
+[hotel_cx_analysis.sql](hotel_cx_analysis.sql)
 
 ## Portfolio Note
 
-This report intentionally separates **analysis results** from **SQL code**. The report is designed for recruiters, hiring managers, and non-technical stakeholders, while the SQL file demonstrates the technical implementation.
+This report separates business findings from technical SQL implementation so recruiters and non-technical stakeholders can understand the project without reading raw code first.
