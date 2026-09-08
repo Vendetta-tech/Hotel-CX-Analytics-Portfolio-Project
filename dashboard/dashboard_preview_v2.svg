@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style>
+.title{font-family:Georgia,serif;font-weight:700}.sans{font-family:Arial,sans-serif}.small{font-size:18px;letter-spacing:2px}.h1{font-size:48px}.kpi{font-family:Georgia,serif;font-weight:700;font-size:42px}.label{font-family:Arial,sans-serif;font-size:20px}.muted{fill:#61706a}.ink{fill:#17302b}.white{fill:#fff}.gold{fill:#b99053}
+</style>
+<rect width="1600" height="900" fill="#f5f1e8"/>
+<rect width="1600" height="175" fill="#10231f"/><rect y="170" width="1600" height="5" fill="#b99053"/>
+<text x="70" y="65" class="sans small gold">HOTEL CX</text>
+<text x="70" y="122" class="title h1 white">Customer Experience Analytics</text>
+<text x="70" y="155" class="sans label" fill="#d6ddd8">Simulated portfolio data  |  286 guest stays  |  Mar to Jul 2026</text>
+
+<g fill="#fbfaf6" stroke="#d9d4c8" stroke-width="2">
+<rect x="70" y="220" width="470" height="150" rx="12"/><rect x="565" y="220" width="470" height="150" rx="12"/><rect x="1060" y="220" width="470" height="150" rx="12"/>
+<rect x="70" y="394" width="470" height="150" rx="12"/><rect x="565" y="394" width="470" height="150" rx="12"/><rect x="1060" y="394" width="470" height="150" rx="12"/>
+</g>
+<g>
+<text x="98" y="285" class="kpi ink">286</text><text x="98" y="328" class="sans label muted">Guest stays</text>
+<text x="593" y="285" class="kpi ink">3.64 / 5</text><text x="593" y="328" class="sans label muted">Average satisfaction</text>
+<text x="1088" y="285" class="kpi ink">45.8%</text><text x="1088" y="328" class="sans label muted">Complaint rate</text>
+<text x="98" y="459" class="kpi ink">74.8%</text><text x="98" y="502" class="sans label muted">Resolved complaints</text>
+<text x="593" y="459" class="kpi ink">6.5 hrs</text><text x="593" y="502" class="sans label muted">Average resolution</text>
+<text x="1088" y="459" class="kpi ink">36.4%</text><text x="1088" y="502" class="sans label muted">Returning guests</text>
+<g fill="#b99053"><rect x="98" y="343" width="90" height="5" rx="3"/><rect x="593" y="343" width="90" height="5" rx="3"/><rect x="1088" y="343" width="90" height="5" rx="3"/><rect x="98" y="517" width="90" height="5" rx="3"/><rect x="593" y="517" width="90" height="5" rx="3"/><rect x="1088" y="517" width="90" height="5" rx="3"/></g>
+</g>
+
+<rect x="70" y="575" width="720" height="250" rx="12" fill="#fff" stroke="#d9d4c8" stroke-width="2"/>
+<text x="100" y="635" class="title" font-size="30" fill="#17302b">Top complaint priorities</text>
+<text x="100" y="668" class="sans" font-size="17" fill="#61706a">Highest-frequency themes in the simulated dataset</text>
+<g class="sans" font-size="17" fill="#17302b">
+<text x="100" y="710">Room Cleanliness</text><text x="100" y="735">Room Maintenance</text><text x="100" y="760">Check-in Delay</text><text x="100" y="785">Food Quality</text><text x="100" y="810">Slow Complaint Resolution</text>
+</g>
+<g fill="#e8ddc9"><rect x="360" y="695" width="340" height="11" rx="5"/><rect x="360" y="720" width="340" height="11" rx="5"/><rect x="360" y="745" width="340" height="11" rx="5"/><rect x="360" y="770" width="340" height="11" rx="5"/><rect x="360" y="795" width="340" height="11" rx="5"/></g>
+<g fill="#b99053"><rect x="360" y="695" width="340" height="11" rx="5"/><rect x="360" y="720" width="328" height="11" rx="5"/><rect x="360" y="745" width="293" height="11" rx="5"/><rect x="360" y="770" width="164" height="11" rx="5"/><rect x="360" y="795" width="164" height="11" rx="5"/></g>
+<g class="sans" font-size="17" font-weight="700" fill="#17302b"><text x="716" y="708">29</text><text x="716" y="733">28</text><text x="716" y="758">25</text><text x="716" y="783">14</text><text x="716" y="808">14</text></g>
+
+<rect x="820" y="575" width="710" height="250" rx="12" fill="#10231f"/>
+<text x="856" y="636" class="title" font-size="30" fill="#fff">Management implication</text>
+<rect x="856" y="660" width="116" height="5" rx="3" fill="#b99053"/>
+<text x="856" y="713" class="sans" font-size="23" fill="#d6ddd8">Prioritize prevention in recurring complaint categories,</text>
+<text x="856" y="745" class="sans" font-size="23" fill="#d6ddd8">then strengthen service recovery by tracking unresolved</text>
+<text x="856" y="777" class="sans" font-size="23" fill="#d6ddd8">cases and resolution time alongside satisfaction.</text>
+<text x="856" y="809" class="sans" font-size="17" font-weight="700" fill="#b99053">Priority: Room cleanliness and service recovery</text>
+<text x="70" y="870" class="sans" font-size="15" fill="#61706a">Hotel CX Analytics Portfolio Project</text>
+<text x="1530" y="870" class="sans" font-size="15" text-anchor="end" fill="#61706a">Simulated data for portfolio demonstration</text>
+</svg>
