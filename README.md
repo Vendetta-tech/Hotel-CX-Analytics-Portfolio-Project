@@ -6,7 +6,7 @@ A portfolio project demonstrating an end-to-end customer experience analytics wo
 
 **[View the live Hotel CX Analytics Portfolio Website →](https://vendetta-tech.github.io/Hotel-CX-Analytics-Portfolio-Project/)**
 
-The responsive website is designed for both desktop and mobile and provides a visual overview of the project, KPIs, insights, recommendations, dataset, SQL report, and case study.
+The responsive website is designed for both desktop and mobile and links directly to the completed dataset, Excel workbook, dashboard preview, SQL analysis report, case study PDF, presentation, insights, and recommendations.
 
 ## Key Findings
 
@@ -35,15 +35,17 @@ Identify the guest and service factors associated with lower satisfaction, analy
 7. Dashboard design
 8. Recommendations and measurement plan
 
-## Repository Structure
+## Deliverables
 
-- `data/`: simulated raw and processed datasets
-- `sql/`: analytical SQL queries
-- `excel/`: Excel analysis guide and deliverables
-- `dashboard/`: dashboard specification and screenshots
-- `analysis/`: insights and recommendations
-- `case-study/`: recruiter-friendly case study
-- `assets/`: portfolio visuals
+- **Dataset:** `data/raw/hotel_cx_dataset_286_stays.csv`
+- **Excel workbook:** `excel/Hotel_Customer_Experience_Analytics_Portfolio_(1).xlsx`
+- **Dashboard preview:** `dashboard/dashboard_preview.png`
+- **SQL report:** `sql/SQL_ANALYSIS_REPORT.md`
+- **SQL queries:** `sql/hotel_cx_analysis.sql`
+- **Case study PDF:** `case-study/Hotel_Customer_Experience_Analytics_Case_Study.pdf`
+- **Case study DOCX:** `case-study/Hotel_Customer_Experience_Analytics_Case_Study_.docx`
+- **Presentation:** `presentation/Hotel_Customer_Experience_Analytics_Presentation_.pptx`
+- **Insights and recommendations:** `analysis/`
 
 ## Key KPIs
 
