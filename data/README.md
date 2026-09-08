@@ -1,8 +1,10 @@
 # Data
 
-This project uses a simulated hotel guest experience dataset for portfolio purposes.
+This project uses a **286-record simulated hotel guest-stay dataset covering March to July 2026**.
 
-Recommended fields include:
+The dataset is intentionally disclosed as simulated and is used to demonstrate an end-to-end customer experience analytics workflow.
+
+## Core Fields
 
 - Guest_ID
 - Booking_ID
@@ -23,4 +25,6 @@ Recommended fields include:
 - Recommendation_Flag
 - Repeat_Guest_Flag
 
-Do not present the dataset as real company data during interviews.
+## Important Portfolio Disclosure
+
+Do not present this dataset as real company data during interviews. The value of the project is the analytical process, data structure, KPI design, and recommendations.
