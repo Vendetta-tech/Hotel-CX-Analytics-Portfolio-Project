@@ -2,6 +2,12 @@
 
 A portfolio project demonstrating an end-to-end customer experience analytics workflow for a fictional hotel business.
 
+## 🌐 Live Portfolio Website
+
+**[View the live Hotel CX Analytics Portfolio Website →](https://vendetta-tech.github.io/Hotel-CX-Analytics-Portfolio-Project/)**
+
+The responsive website is designed for both desktop and mobile and provides a visual overview of the project, KPIs, insights, recommendations, dataset, SQL report, and case study.
+
 ## Objective
 
 Identify the guest and service factors associated with lower satisfaction, analyze recurring experience issues, and translate findings into measurable operational recommendations.
